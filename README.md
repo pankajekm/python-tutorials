@@ -1,2 +1,2 @@
 # python-tutorials
-This contains some of the programs i used as tutorial
+This repo contains tutorials on various python packages.
